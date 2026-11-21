@@ -1,5 +1,7 @@
 # Persistent HAMT map
 
+**[View the report in your browser](https://Michaelhoang8.github.io/persistent-hamt-map/)**
+
 An immutable **hash-array-mapped trie** implemented in Java 21 for String keys and bounded integer values. Bitmap-indexed branches route 32-bit hashes, explicit full-hash collision nodes retain distinct keys, and insert/update/delete copy only the affected path. Historical roots remain readable and can be used as parents of new versions.
 
 **[Technical report](docs/report.html)** · [Screenshots](docs/screenshots/README.md) · [Review recording](docs/recordings/README.md) · [Implementation contract](docs/implementation.md)
