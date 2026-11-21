@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-21T02:22:21.531525+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Persistent HAMT map",
+  "report_sha256_normalized_text": "196320fdbcc13747688a161b40d4a09e859881bb0658aa05c61f9163fd20764b",
+  "video_sha256": "d96b28c193e2a962b1177bdf2b0e4e75ad811956d39a5afc905d49af68204062",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "abc085c8ef7ce3dddc4cb9fac3dae9404a240063c9011e9f392e1326f0653dc5"
+    },
+    {
+      "path": "docs/screenshots/02_versions.png",
+      "section": "versions",
+      "sha256": "8f51320bca32207a9becaadab04a6d310a391518e712578a9cec7ccec97b344e"
+    },
+    {
+      "path": "docs/screenshots/03_sharing.png",
+      "section": "sharing",
+      "sha256": "4e99ec081ca1264ad0f2859ce14abef81206813b963a9026b24d9a598b48a4ea"
+    },
+    {
+      "path": "docs/screenshots/04_collisions.png",
+      "section": "collisions",
+      "sha256": "d8bab6f7d1faff5b398b77a29c522b3c26a174e07b452f3c8a50c677feab0ee2"
+    },
+    {
+      "path": "docs/screenshots/05_measurements.png",
+      "section": "measurements",
+      "sha256": "09b2a48e0358a272fc85b8e7263e398add42df5e6ff9e876473357f116b63885"
+    },
+    {
+      "path": "docs/screenshots/06_reproduction.png",
+      "section": "reproduction",
+      "sha256": "fa5b7b09e39ae40444c35f860d743d36340341383147f76ca51523baa4e5f93e"
+    }
+  ]
+}

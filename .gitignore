@@ -1,0 +1,6 @@
+build/
+results-local/
+results-ci/
+__pycache__/
+*.log
+.DS_Store
